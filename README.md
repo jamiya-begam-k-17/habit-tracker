@@ -12,7 +12,7 @@
 
 ## 🖥️ Live Demo
 
-> Coming soon — or clone and run locally in under a minute.
+> > https://habit-tracker-dbml.vercel.app/
 
 ---
 
