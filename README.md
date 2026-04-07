@@ -12,7 +12,7 @@
 
 ## 🖥️ Live Demo
 
-> > https://habit-tracker-dbml.vercel.app/
+> https://habit-tracker-dbml.vercel.app/
 
 ---
 
